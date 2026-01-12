@@ -1,0 +1,27 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+venv/
+.env/             # if you store virtualenv here
+.env.*
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+/media/
+staticfiles/
+
+# Testing / coverage
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
