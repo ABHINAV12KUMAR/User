@@ -57,7 +57,6 @@ user-data-store-using-kinesis/
 - IAM user with programmatic access
 - Python 3 installed
 - AWS CLI installed
-- Internet connection
 
 ---
 
@@ -265,8 +264,3 @@ Sent: {'user_id': 'u1', 'action': 'login', 'timestamp': ...}
 - Debugging region and permission issues
 
 ---
-
-## 👤 Author
-
-**Sumit Kumar**  
-AWS Cloud Learner
